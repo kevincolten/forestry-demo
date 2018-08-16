@@ -1,6 +1,7 @@
 ---
 title: Home
 something: Else
+another: Thing
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: Belkirk College Edit
